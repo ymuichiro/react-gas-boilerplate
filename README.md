@@ -10,7 +10,7 @@ Google Apps Script の [Web Apps](https://developers.google.com/apps-script/guid
 本レポジトリをローカルに取得し、依存モジュールをインストールして下さい。
 
 ```
-git clone
+git clone https://github.com/ymuichiro/react-gas-boilerplate.git
 yarn install
 ```
 
